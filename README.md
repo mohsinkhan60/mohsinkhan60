@@ -57,4 +57,4 @@ Passionate about **designing**, **building**, and **scaling** efficient web appl
 </p>
 
 <br/>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=naseemkhandev&show_icons=true&locale=en&layout=compact" alt="naseemkhandev" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohsinkhan60&show_icons=true&locale=en&layout=compact" alt="mohsinkhan60" /></p>
